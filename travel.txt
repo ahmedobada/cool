@@ -2,6 +2,8 @@
 2. ----
 3. shoes
 4. coat
+camera
 5. Picnic
 ---------
 bread
+cheese
